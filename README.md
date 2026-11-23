@@ -8,7 +8,7 @@
   <a href="mailto:fkamanzi@gmail.com?subject=Root%20cause%20request"><img src="https://img.shields.io/badge/Email-Send%20a%20trace-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1426" alt="Email"></a>
 </p>
 
-**Founder of [SAANO AI Networks](https://fkamanzi.github.io/telco-portfolio/)** (SAANO AI NETWORKS LTD, Kigali, Rwanda): the company behind **Isaano**, an evidence-locked root-cause engine, and the tools below. [Field answers](https://fkamanzi.github.io/telco-portfolio/answers/) on VoLTE, EPS fallback, 5G registration and the 3G switch-off.
+**Founder of [SAANO AI Networks](https://fkamanzi.github.io/telco-portfolio/)** (SAANO AI NETWORKS LTD, Kigali, Rwanda): the company behind **Isaano**, an evidence-locked root-cause engine, and the tools below. [Field answers](https://fkamanzi.github.io/telco-portfolio/answers/) on VoLTE, EPS fallback, 5G registration and the 3G switch-off. Follow [SAANO AI Networks on LinkedIn](https://www.linkedin.com/company/saano-ai-networks/).
 
 <img src="stats.svg" alt="36 browser tools, 18+ years in live operator networks, 2G to 5G SA, written root cause in 3 days" width="100%">
 
