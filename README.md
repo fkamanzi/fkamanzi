@@ -73,4 +73,4 @@ If a tool saved you an hour, **[star telco-portfolio](https://github.com/fkamanz
 
 ---
 
-<sub>Kigali, Rwanda · English · Français · Kiswahili · Kinyarwanda · Remote and on-site across Africa<br>Prepared by Frutos Kamanzi - CEO Founder SAANO AI NETWORKS</sub>
+<sub>Kigali, Rwanda · English · Français · Kiswahili · Kinyarwanda · Remote and on-site across Africa<br>Prepared by Frutos Kamanzi · Founder, SAANO AI NETWORKS</sub>
